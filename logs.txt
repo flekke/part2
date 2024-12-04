@@ -1,0 +1,14 @@
+2024-11-26 22:47:52 - INFO - Moved: asd.txt -> d:\공부 관련\OsloMet\24 1학기\4200\final\part2\modules\..\txtfiles
+2024-11-26 22:47:52 - INFO - Moved: Figure_2.png -> d:\공부 관련\OsloMet\24 1학기\4200\final\part2\modules\..\images
+2024-11-26 22:47:52 - INFO - Added new category: docx
+2024-11-26 22:47:52 - INFO - Moved: 그냥 듣는 것은 효과 없어.docx -> d:\공부 관련\OsloMet\24 1학기\4200\final\part2\modules\..\docx
+2024-12-02 14:41:58 - INFO - Moved: test.txt -> D:\공부 관련\OsloMet\24 1학기\4200\final\part2\modules\..\Documents
+2024-12-02 14:41:58 - INFO - Moved: image.jpg -> D:\공부 관련\OsloMet\24 1학기\4200\final\part2\modules\..\Images
+2024-12-02 14:41:58 - INFO - Moved: video.mp4 -> D:\공부 관련\OsloMet\24 1학기\4200\final\part2\modules\..\Videos
+2024-12-02 14:41:58 - INFO - Added new category: xyz
+2024-12-02 14:41:59 - INFO - Moved: unknown.xyz -> D:\공부 관련\OsloMet\24 1학기\4200\final\part2\modules\..\xyz
+2024-12-02 15:00:03 - INFO - Moved: test.txt -> D:\공부 관련\OsloMet\24 1학기\4200\final\part2\modules\..\Documents
+2024-12-02 15:00:03 - INFO - Moved: image.jpg -> D:\공부 관련\OsloMet\24 1학기\4200\final\part2\modules\..\Images
+2024-12-02 15:00:03 - INFO - Moved: video.mp4 -> D:\공부 관련\OsloMet\24 1학기\4200\final\part2\modules\..\Videos
+2024-12-02 15:00:03 - INFO - Added new category: xyz
+2024-12-02 15:00:03 - INFO - Moved: unknown.xyz -> D:\공부 관련\OsloMet\24 1학기\4200\final\part2\modules\..\xyz
