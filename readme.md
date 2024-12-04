@@ -3,18 +3,19 @@
 ## Overview
 This document provides an overview of Part 2 of the final project for the course 4200.
 
+```plaintext
 Part2/
 ├── main.py                  # Entry point for the program
-├── modules/
-│   ├── __init__.py          #initializaing the package
-│   ├── config.py            #configuration data
-│   ├── file_sorter.py       #sorting files and moving them
-│   └── logger.py            #Executing logging
-├── files/                  
+├── modules/                 # Contains all the modules used in the project
+│   ├── __init__.py          # Initializes the package
+│   ├── config.py            # Contains configuration data
+│   ├── file_sorter.py       # Handles file sorting and moving them to directories
+│   └── logger.py            # Handles logging of events
+├── files/                   # Directory for the files to be sorted
 ├── readme.md                # Documentation (this file)
-├── setup.py                 # Installation script
-├── test_part2.py            # Test script for the project
-└── logs.txt                 # log file
+├── setup.py                 # Installation script for the project
+├── test_part2.py            # Test script to validate the functionalities
+└── logs.txt                 # Log file for recording operations
 
 
 ## How to use
