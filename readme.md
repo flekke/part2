@@ -16,7 +16,7 @@ Part2/
 ├── setup.py                 # Installation script for the project
 ├── test_part2.py            # Test script to validate the functionalities
 └── logs.txt                 # Log file for recording operations
-
+```
 
 ## How to use
 ### Option 1. Clone the repository 
